@@ -1,5 +1,5 @@
 # Hello-Microverse
-div align="center">
+<div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="images\murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
