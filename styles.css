@@ -1,11 +1,9 @@
 .header {
-
-    color: cyan;
-    width: 150px;
-    height: 110px;
-    font-style: italic;
-    font-family: 'Courier New', Courier, monospace;
-
+  color: cyan;
+  width: 150px;
+  height: 110px;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 /* My own syles */
