@@ -1,5 +1,5 @@
 {
-    "extends": "stylelint-config-recommended",
+    "extends": ["stylelint-config-standard"],
     "plugins": ["stylelint-scss", "stylelint-csstree-validator"],
     "rules": {
       "at-rule-no-unknown": null,
@@ -18,4 +18,5 @@
     },
     "csstree/validator": true,
     "ignoreFiles": ["build/**", "dist/**", "**/reset*.css", "**/bootstrap*.css"]
-  }  
+  }
+  
