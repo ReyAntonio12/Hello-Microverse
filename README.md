@@ -4,7 +4,7 @@
   <img src="images\murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
@@ -16,8 +16,8 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -27,7 +27,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 Hello Microverse <a name="about-project"></a>
@@ -39,7 +38,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Technologies</summary>
   <ul>
     <li><a href="https://lenguajehtml.com/">HTML</a></li>
   </ul>
@@ -68,9 +67,11 @@
   </ul>
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> <strong>Please see the link for the deployed project.</strong>
 
 - https://reyantonio12.github.io/Hello-Microverse/
 
@@ -78,7 +79,36 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> It easier to start this project, it's a static website showing Welcome Microverse text.
+> <strong>It easier to start this project, it's a static website showing Welcome Microverse text.</strong>
+
+### Prerequisites
+
+In order to run this project you need:
+- A working Laptop or PC
+- Reliable internet connection
+
+### Setup
+
+Clone this repository or fork it if you prefer
+
+### Install
+
+** No installation is needed for this project **
+
+### Usage
+
+To run this project you can access it throuh the deployment link you above
+
+### Run tests
+
+** No tests are needed **
+
+### Deployment
+
+You can deploy this project by using this link: https://reyantonio12.github.io/Hello-Microverse/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -88,13 +118,16 @@ Web Developer
 - GitHub: [@ReyAntonio12](https://github.com/ReyAntonio12)
 - LinkedIn: [Reynaldo Antonio Castano Ruiz](https://www.linkedin.com/in/reynaldo-casta%C3%B1o/?locale=en_US)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 I will be adding features depending of time and acceptance of this project
 
-- [1] **More information to landing page**
+- [ ] **More information to landing page**
 - [ ] **Adding a responsive feature**
 - [ ] **Working with frameworks**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,10 +138,20 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page
 https://github.com/ReyAntonio12/Hello-Microverse/issues
 
+## ⭐️ Show your support <a name="support"></a>
+
+If you liked this project, please, show your support by following me on Github and leaving a comment!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my wife as she's been supporting me since day one and I dedicate all my motivation to her. Also I would like to support microverse for the opportunity in being working with them.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
